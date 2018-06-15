@@ -17,3 +17,10 @@ Withholding AARs: We haven't been given the opportunity to submit any form of AA
 Instructors aren't prepared: Instructors have needed help running, understanding, and trouble shooting their scripts. Indicating a lack of knowledge and readiness to teach.
 
 Lack of Professionalism: The default password for our virtual machines are eeyore:hatemyjob
+
+June 15 2018 08:28- PVT Cannon asks the instructor a question about the upcoming week, Dan responds with "Do you want to teach the course"
+
+June 15 2018 08:34- Dan tells the entire class you can use perl
+
+June 15 2018 08:39- Dan talks about the integrity violations
+
